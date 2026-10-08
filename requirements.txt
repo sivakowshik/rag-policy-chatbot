@@ -1,0 +1,6 @@
+openai>=1.40
+azure-search-documents>=11.5
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pytest>=8.0
