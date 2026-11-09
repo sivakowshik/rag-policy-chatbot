@@ -148,4 +148,4 @@ Everything in `data/sample_sops/` is **fictional sample data** written for this 
 ## Author
 
 **Siva Kowshik Sripathi Panditharadyula**, AI Engineer (Azure OpenAI · RAG · Agents · Python), Melbourne
-[Portfolio](https://sivakowshik.github.io) · [GitHub](https://github.com/sivakowshik) · [LinkedIn](https://www.linkedin.com/in/siva-kowshik-sripathi-panditharadyula-241713150) · kowsik.king451@gmail.com
+[Portfolio](https://sivakowshik.github.io) · [GitHub](https://github.com/sivakowshik) · [LinkedIn](https://www.linkedin.com/in/siva-kowshik-sripathi-panditharadyula-241713150) · kowshik.sps451@gmail.com
